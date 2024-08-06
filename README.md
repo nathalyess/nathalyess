@@ -1,4 +1,13 @@
 ## Hi there 👋
+## - 🔭 I’m studyng currently
+- 🌱 I’m currently learning a programar no alura
+- 👯 I’m looking to collaborate on alguma coisa
+- 🤔 I’m looking for help with estudos
+- 💬 Ask me about algo 
+- 📫 How to reach me: email: 00001116615605sp@al.educacao.sp.gov.br
+- 😄 "Life is hard work"
+  
+-->
 
 <!--
 **nathalyess/nathalyess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
