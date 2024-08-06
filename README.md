@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Nathaly
 ## - 🔭 I’m studyng currently
 - 🌱 I’m currently learning a programar no alura
 - 👯 I’m looking to collaborate on alguma coisa
